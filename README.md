@@ -53,14 +53,14 @@ Together, FM-MCMC achieves **orders-of-magnitude speed-up** while maintaining **
 ## 📖 Citation
 If you use this code, please cite our paper:
 ```bibtex
-@misc{liang2025unlockingnewpathsscience,
-      title={Unlocking New Paths for Science with Extreme-Mass-Ratio Inspirals: Machine Learning-Enhanced MCMC for Accurate Parameter Inversion}, 
-      author={Bo Liang and Chang Liu and Hanlin Song and Zhenwei Lyu and Minghui Du and Peng Xu and Ziren Luo and Sensen He and Haohao Gu and Tianyu Zhao and Manjia Liang Yuxiang Xu and Li-e Qiang and Mingming Sun and Wei-Liang Qian},
+@misc{liang2025estimatingorbitalparametersdirect,
+      title={Estimating Orbital Parameters of Direct Imaging Exoplanet Using Neural Network}, 
+      author={Bo Liang and Hanlin Song and Chang Liu and Tianyu Zhao and Yuxiang Xu and Zihao Xiao and Manjia Liang and Minghui Du and Wei-Liang Qian and Li-e Qiang and Peng Xu and Ziren Luo},
       year={2025},
-      eprint={2508.00348},
+      eprint={2510.17459},
       archivePrefix={arXiv},
-      primaryClass={gr-qc},
-      url={https://arxiv.org/abs/2508.00348}, 
+      primaryClass={astro-ph.EP},
+      url={https://arxiv.org/abs/2510.17459}, 
 }
 ```
 
